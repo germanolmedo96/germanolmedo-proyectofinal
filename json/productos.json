@@ -1,0 +1,109 @@
+[{
+    "id": 1,
+    "tipo": "Camiseta",
+    "nombre": "Camiseta Argentinos Juniors",
+    "precio": 5000,
+    "foto": "./img/camiseta-argentinos.jpg"
+}, {
+    "id": 2,
+    "tipo": "Camiseta",
+    "nombre": "Camiseta Atletico Tucuman",
+    "precio": 5500,
+    "foto": "./img/camiseta-atletico.jpg"
+}, {
+    "id": 3,
+    "tipo": "Camiseta",
+    "nombre": "Camiseta Banfield",
+    "precio": 5500,
+    "foto": "./img/camiseta-banfield.jpg"
+}, {
+    "id": 4,
+    "tipo": "Camiseta",
+    "nombre": "Camiseta Belgrano",
+    "precio": 6000,
+    "foto": "./img/camiseta-belgrano.jpg"
+}, {
+    "id": 5,
+    "tipo": "Camiseta",
+    "nombre": "Camiseta Boca Juniors",
+    "precio": 8500,
+    "foto": "./img/camiseta-boca.jpg"
+}, {
+    "id": 6,
+    "tipo": "Camiseta",
+    "nombre": "Camiseta Estudiantes",
+    "precio": 7000,
+    "foto": "./img/camiseta-estudiantes.jpg"
+}, {
+    "id": 7,
+    "tipo": "Camiseta",
+    "nombre": "Camiseta Gimnasia",
+    "precio": 7000,
+    "foto": "./img/camiseta-gimnasia.jpg"
+}, {
+    "id": 8,
+    "tipo": "Camiseta",
+    "nombre": "Camiseta Godoy Cruz",
+    "precio": 5000,
+    "foto": "./img/camiseta-godoy.jpg"
+}, {
+    "id": 9,
+    "tipo": "Camiseta",
+    "nombre": "Camiseta Huracan",
+    "precio": 4500,
+    "foto": "./img/camiseta-huracan.jpg"
+}, {
+    "id": 10,
+    "tipo": "Camiseta",
+    "nombre": "Camiseta Independiente",
+    "precio": 8000,
+    "foto": "./img/camiseta-independiente.jpg"
+}, {
+    "id": 11,
+    "tipo": "Camiseta",
+    "nombre": "Camiseta Lanus",
+    "precio": 7000,
+    "foto": "./img/camiseta-lanus.jpg"
+}, {
+    "id": 12,
+    "tipo": "Camiseta",
+    "nombre": "Camiseta Newells",
+    "precio": 6500,
+    "foto": "./img/camiseta-newells.jpg"
+}, {
+    "id": 13,
+    "tipo": "Camiseta",
+    "nombre": "Camiseta Racing",
+    "precio": 8000,
+    "foto": "./img/camiseta-racing.jpg"
+}, {
+    "id": 14,
+    "tipo": "Camiseta",
+    "nombre": "Camiseta River Plate",
+    "precio": 8500,
+    "foto": "./img/camiseta-river.jpg"
+}, {
+    "id": 15,
+    "tipo": "Camiseta",
+    "nombre": "Camiseta Rosario Central",
+    "precio": 6500,
+    "foto": "./img/camiseta-rosario.jpg"
+}, {
+    "id": 16,
+    "tipo": "Camiseta",
+    "nombre": "Camiseta San Lorenzo",
+    "precio": 7500,
+    "foto": "./img/camiseta-sanlorenzo.jpg"
+}, {
+    "id": 17,
+    "tipo": "Camiseta",
+    "nombre": "Camiseta Talleres",
+    "precio": 6000,
+    "foto": "./img/camiseta-talleres.jpg"
+}, {
+    "id": 18,
+    "tipo": "Camiseta",
+    "nombre": "Camiseta Velez Sarsfield",
+    "precio": 7500,
+    "foto": "./img/camiseta-velez.jpg"
+}]
